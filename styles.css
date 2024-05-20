@@ -1,0 +1,32 @@
+header {
+    color:white;
+    background-color: rgb(98, 100, 102);
+    text-align: center;
+    padding: 25px 0px;
+    margin-bottom: 20px;
+}
+body {
+    background-color: rgb(175, 173, 173);
+    margin: 0;
+}
+main {
+    color: white;
+    width: 600px;
+    background-color: rgb(65, 115, 195);
+    text-align: center;
+    border: 10px solid black;
+    padding: 25px;
+    margin: 0 auto;
+}
+footer {
+color: white;
+background-color: rgb(35, 35, 94);
+text-align: center;
+padding: 25px;
+margin: 25px;
+}
+img {
+    width: 600px;
+    height:400px;
+   
+}
